@@ -1,0 +1,1 @@
+web: gunicorn movie_lovers:app -- preload --timeout 60
